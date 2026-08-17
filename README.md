@@ -144,4 +144,4 @@ For stronger protection, keep a copy of `hashLog.txt` in a protected or separate
 
 ## License
 
-Specify the license for this project here.
+This project is licensed under the MIT License.
